@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sum it up</string>
+    <string name="go">GO</string>
+    <string name="playAgainString">Play Again</string>
+</resources>
